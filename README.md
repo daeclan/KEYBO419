@@ -1,3 +1,9 @@
 # KEYBO419
-so like
-enjoy
+hello & thanks for checking out KEYBO !
+
+shit's real simple, famillionaires:
+
+1. select ur grid !
+2. connect ur midi ins & outs !
+3. open a vst keyboard/synth/drump pad/etc. !
+4. get to music makin' fool !
