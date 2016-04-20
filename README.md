@@ -7,3 +7,8 @@ shit's real simple, famillionaires:
 2. connect ur midi ins & outs !
 3. open a vst keyboard/synth/drump pad/etc. !
 4. get to music makin' fool !
+
+instructions:
+• the lit keys are playable pads
+• the bottom leftmost & rightmost 
+  buttons are octaves down & up respectively
